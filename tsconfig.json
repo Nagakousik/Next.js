@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/Components/MovieCard.jsx", "app/Components/Rating.jsx"  ],
   "exclude": ["node_modules"]
 }
