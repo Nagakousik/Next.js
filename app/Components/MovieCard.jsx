@@ -144,7 +144,7 @@ export default function MovieCard() {
           <div className="card">
             <img src="https://i.pinimg.com/1200x/31/b1/ea/31b1ea4c9e3d8302460b69f00e31c74a.jpg" alt="Pushpa 2" />
             <MovieName name = {"Pushpa-2"} />
-            <p className="meta"><span>Release: 4 Dec, 2024 | <Rating value = {4.5} /> </span></p>
+            <div className="meta"><span>Release: 4 Dec, 2024 | <Rating value = {2.0} /> </span></div>
             <p className="story">
               Pushpa rises as the head of the red sandal syndicate while facing revenge from Bhawar Singh.
             </p>
@@ -153,7 +153,7 @@ export default function MovieCard() {
           <div className="card">
             <img src="https://variety.com/wp-content/uploads/2022/12/Animal-first-look.jpg?w=1000&h=564&crop=1" alt="Animal" />
             <MovieName name = {"Animal"} />
-            <p className="meta"><span>Release: 18 Sep, 2023 | <Rating value = {4.7} /></span></p>
+            <div className="meta"><span>Release: 18 Sep, 2023 | <Rating value = {1.0} /></span></div>
             <p className="story">
               A son returns home and goes on a violent path after an attack on his father.
             </p>
@@ -162,7 +162,7 @@ export default function MovieCard() {
           <div className="card">
             <img src="https://m.media-amazon.com/images/M/MV5BMzFiNTVkZjYtM2I3Yi00MGNjLWEyYTAtMGViNGExZmMzMGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Dhurandhar" />
             <MovieName name = {"Dhurandhar"} />
-            <p className="meta"><span>Release: 5 Dec, 2025 | <Rating value = {4.3 } /></span></p>
+            <div className="meta"><span>Release: 5 Dec, 2025 | <Rating value = {2.5 } /></span></div>
             <p className="story">
               An undercover agent infiltrates Karachi and climbs the criminal ranks.
             </p>
@@ -171,7 +171,7 @@ export default function MovieCard() {
           <div className="card">
             <img src="https://i.ytimg.com/vi/3CYY8l7Nr0w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD2WVMAHdkhppuSSWx1vy7avF74fw" alt="Rockstar" />
             <MovieName name = {"Rockstar"} />
-            <p className="meta"><span>Release: 11 Nov, 2011 | <Rating value = {4.6}/></span></p>
+            <div className="meta"><span>Release: 11 Nov, 2011 | <Rating value = {1.7}/></span></div>
             <p className="story">
               A boy becomes a rockstar through heartbreak and emotional struggles.
             </p>
